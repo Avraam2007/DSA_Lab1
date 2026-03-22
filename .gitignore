@@ -415,4 +415,8 @@ FodyWeavers.xsd
 *.msi
 *.msix
 *.msm
+<<<<<<< HEAD
 *.msp
+=======
+*.msp
+>>>>>>> bec9e6d (first commit)
